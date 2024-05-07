@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
@@ -55,9 +57,10 @@
       [
         "@config-plugins/ffmpeg-kit-react-native",
         {
-          "package": "full"
+          "package": "full-gpl"
         }
-      ]
+      ],
+      "expo-video"
     ]
   }
 }
