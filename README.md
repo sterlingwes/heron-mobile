@@ -13,7 +13,7 @@
 - [x] proof of concept (PoC) working for iOS ffmpegkit stream capture as chunked mp4s with m3u8 playlist file (single camera)
 - [x] PoC for capture preview (export video frame image every second)
 - [ ] dual camera stream capture
-- [ ] verify above, but for android
+- [x] verify above, but for android
 - [ ] PoC for upload to infra referencing existing app implementation
 - [ ] refactor to allow entrypoint for server & credentials config
 - [ ] add screen for server & credentials capture (with config.json download & persistence)
